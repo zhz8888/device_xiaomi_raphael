@@ -14,7 +14,6 @@
 
 # HALs
 /vendor/bin/hw/android\.hardware\.lights-service\.raphael                                              u:object_r:hal_light_default_exec:s0
-/vendor/bin/hw/android\.hardware\.power@1\.2-service\.raphael                                          u:object_r:hal_power_default_exec:s0
 /vendor/bin/hw/vendor\.lineage\.biometrics\.fingerprint\.inscreen@1.0-service\.raphael                 u:object_r:hal_lineage_fod_default_exec:s0
 /vendor/bin/hw/vendor\.xiaomi\.hardware\.motor@1.0-service                                             u:object_r:hal_lineage_camera_motor_default_exec:s0
 
