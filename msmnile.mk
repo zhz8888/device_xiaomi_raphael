@@ -66,7 +66,6 @@ PRODUCT_PACKAGES += \
 
 PRODUCT_PACKAGES += \
     libbatterylistener \
-    libvolumelistener \
     libqcomvisualizer \
     libqcomvoiceprocessing \
     libqcomvoiceprocessingdescriptors \

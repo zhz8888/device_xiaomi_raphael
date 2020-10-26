@@ -86,6 +86,10 @@ vendor/lib/hw/audio.primary.msmnile.so
 vendor/firmware/tfa98xx.cnt
 vendor/firmware/mono.cnt
 
+# Audio-SoundFX
+vendor/lib/soundfx/libvolumelistener.so|eccf8e24f178f3679f9309be0d92234b4cb58489
+vendor/lib64/soundfx/libvolumelistener.so|abb573d099b777d4f4e85960778999b3a92a393e
+
 # Bluetooth
 vendor/bin/hw/android.hardware.bluetooth@1.0-service-qti
 vendor/etc/init/android.hardware.bluetooth@1.0-service-qti.rc
