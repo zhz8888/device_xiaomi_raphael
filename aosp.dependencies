@@ -1,0 +1,13 @@
+[
+   {
+      "remote":"pixel-devices-blobs",
+      "repository":"vendor_xiaomi_raphael",
+      "target_path":"vendor/xiaomi/raphael",
+      "branch":"eleven"
+   },
+   {
+      "repository":"kernel_xiaomi_raphael",
+      "target_path":"kernel/xiaomi/sm8150",
+      "branch":"eleven"
+   }
+]
