@@ -692,4 +692,11 @@
 
     <!-- Whether Hearing Aid profile is supported -->
     <bool name="config_hearing_aid_profile_supported">true</bool>
+
+    <!-- Shows the required view for in-display fingerprint -->
+    <bool name="config_supportsInDisplayFingerprint">true</bool>
+
+    <!-- Does the battery LED support multiple colors?
+         Used to decide if the user can change the colors -->
+    <bool name="config_multiColorBatteryLed">false</bool>
 </resources>
