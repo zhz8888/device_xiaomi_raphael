@@ -137,8 +137,8 @@ void vendor_load_properties()
   // Workaround SafetyNet
     workaround_snet_properties();
   // fingerprint
-    property_override("ro.build.description", "raphael-user 10 QKQ1.190825.002 20.10.15 release-keys");
-    property_override_multi("ro.build.fingerprint", "ro.vendor.build.fingerprint","ro.bootimage.build.fingerprint", "google/walleye/walleye:8.1.0/OPM1.171019.011/4448085:user/release-keys");
+    property_override("ro.build.description", "raphael-user 11 RKQ1.200826.002 21.1.26 release-keys");
+    property_override_multi("ro.build.fingerprint", "ro.vendor.build.fingerprint","ro.bootimage.build.fingerprint", "Xiaomi/raphael/raphael:11/RKQ1.200826.002/21.1.26:user/release-keys");
 
     load_dalvikvm_properties();
 }
